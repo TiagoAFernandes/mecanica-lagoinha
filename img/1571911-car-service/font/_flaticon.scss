@@ -1,0 +1,100 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 13/03/2019 07:53
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-001-gear-stick:before { content: "\f100"; }
+.flaticon-002-axle:before { content: "\f101"; }
+.flaticon-003-battery:before { content: "\f102"; }
+.flaticon-004-car-key:before { content: "\f103"; }
+.flaticon-005-car-lift:before { content: "\f104"; }
+.flaticon-006-car-service:before { content: "\f105"; }
+.flaticon-007-car:before { content: "\f106"; }
+.flaticon-008-car-1:before { content: "\f107"; }
+.flaticon-009-car-2:before { content: "\f108"; }
+.flaticon-010-car-3:before { content: "\f109"; }
+.flaticon-011-charging-station:before { content: "\f10a"; }
+.flaticon-012-checklist:before { content: "\f10b"; }
+.flaticon-013-windshield:before { content: "\f10c"; }
+.flaticon-014-car-lift-1:before { content: "\f10d"; }
+.flaticon-015-garage:before { content: "\f10e"; }
+.flaticon-016-gear-shift:before { content: "\f10f"; }
+.flaticon-017-repair:before { content: "\f110"; }
+.flaticon-018-spark-plug:before { content: "\f111"; }
+.flaticon-019-key:before { content: "\f112"; }
+.flaticon-020-car-lift-2:before { content: "\f113"; }
+.flaticon-021-placeholder:before { content: "\f114"; }
+.flaticon-022-maintenance:before { content: "\f115"; }
+.flaticon-023-piston:before { content: "\f116"; }
+.flaticon-024-service:before { content: "\f117"; }
+.flaticon-025-speedometer:before { content: "\f118"; }
+.flaticon-026-steering-wheel:before { content: "\f119"; }
+.flaticon-027-tyre:before { content: "\f11a"; }
+.flaticon-028-cross:before { content: "\f11b"; }
+.flaticon-029-wrench:before { content: "\f11c"; }
+.flaticon-030-car-wash:before { content: "\f11d"; }
+    
+    $font-Flaticon-001-gear-stick: "\f100";
+    $font-Flaticon-002-axle: "\f101";
+    $font-Flaticon-003-battery: "\f102";
+    $font-Flaticon-004-car-key: "\f103";
+    $font-Flaticon-005-car-lift: "\f104";
+    $font-Flaticon-006-car-service: "\f105";
+    $font-Flaticon-007-car: "\f106";
+    $font-Flaticon-008-car-1: "\f107";
+    $font-Flaticon-009-car-2: "\f108";
+    $font-Flaticon-010-car-3: "\f109";
+    $font-Flaticon-011-charging-station: "\f10a";
+    $font-Flaticon-012-checklist: "\f10b";
+    $font-Flaticon-013-windshield: "\f10c";
+    $font-Flaticon-014-car-lift-1: "\f10d";
+    $font-Flaticon-015-garage: "\f10e";
+    $font-Flaticon-016-gear-shift: "\f10f";
+    $font-Flaticon-017-repair: "\f110";
+    $font-Flaticon-018-spark-plug: "\f111";
+    $font-Flaticon-019-key: "\f112";
+    $font-Flaticon-020-car-lift-2: "\f113";
+    $font-Flaticon-021-placeholder: "\f114";
+    $font-Flaticon-022-maintenance: "\f115";
+    $font-Flaticon-023-piston: "\f116";
+    $font-Flaticon-024-service: "\f117";
+    $font-Flaticon-025-speedometer: "\f118";
+    $font-Flaticon-026-steering-wheel: "\f119";
+    $font-Flaticon-027-tyre: "\f11a";
+    $font-Flaticon-028-cross: "\f11b";
+    $font-Flaticon-029-wrench: "\f11c";
+    $font-Flaticon-030-car-wash: "\f11d";

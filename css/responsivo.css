@@ -1,0 +1,49 @@
+/* Responsivo */
+
+@media (max-width: 768px) {
+  .display-none-md {
+    display: none;
+  }
+
+  .navegacao {
+    padding-top: 20px;
+  }
+}
+
+@media (max-width: 1140px) {
+  .display-none-lg {
+    display: none;
+  }
+
+  .paddin-lg-proprio {
+    padding: 48px 0;
+  }
+}
+
+@media (max-width: 576px) {
+  .display-none {
+    display: none;
+  }
+
+  .h1_banner h1 {
+    line-height: 60px;
+  }
+}
+
+@media (min-width: 768px) {
+  .navegacao {
+    padding-top: 40px;
+  }
+}
+
+@media (min-width: 992px) {
+  .menu-smartphone {
+    display: none;
+  }
+}
+
+@media (max-width: 992px) {
+  .display-none-menu {
+    display: none;
+  }
+}
