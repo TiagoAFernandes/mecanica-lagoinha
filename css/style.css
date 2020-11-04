@@ -148,7 +148,7 @@ input:checked ~ label .hamburger::after {
 /* Banner */
 
 .banner {
-  background-image: url("/img/banner_imagem_2.png");
+  background-image: url("img/banner_imagem_2.png");
   background-size: cover;
 }
 
@@ -265,7 +265,7 @@ input:checked ~ label .hamburger::after {
 /* Mapa */
 
 .bg_mapa {
-  background-image: url("/img/bg_mapa.png");
+  background-image: url("img/bg_mapa.png");
   background-size: cover;
 }
 
